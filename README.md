@@ -1,16 +1,7 @@
-# route_ecommerce_task
 
-A new Flutter project.
 
-## Getting Started
+## Ui Design
+![splash_screen](https://github.com/user-attachments/assets/e67c5ad9-ffb6-4b0c-a543-c1cc9edc8e70)
+![home_screen](https://github.com/user-attachments/assets/4587a027-3c60-4820-b591-6638896a0cc9)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
